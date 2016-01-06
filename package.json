@@ -1,0 +1,31 @@
+{
+  "name": "fis-parser-react-tools",
+  "version": "0.0.1",
+  "description": "a parser plugin for fis to precompile react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanhh/fis-parser-jsx.git"
+  },
+  "keywords": [
+    "fis",
+    "react",
+    "jsx",
+    "plugin",
+    "parser"
+  ],
+    "author": {
+    "name": "wanhh"
+    },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wanhh/fis-parser-jsx/issues"
+  },
+  "homepage": "https://github.com/wanhh/fis-parser-jsx",
+  "dependencies": {
+    "react-tools": "~0.13.3"
+  }
+}
